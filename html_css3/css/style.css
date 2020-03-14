@@ -1,0 +1,26 @@
+body {
+    background: green;
+    margin-left: 5%;
+    margin-right: 30%;
+}
+
+header {
+    margin-top: 15%;
+}
+
+h1 {
+    color: purple;
+    font-family: fantasy;
+}
+
+h2 {
+    color: purple;
+    font-family: fantasy;
+}
+section {
+    color: white;
+    font-style: italic;
+}
+img {
+    margin-bottom: 5%;
+}
